@@ -2,7 +2,7 @@
 
 set -e
 
-URL="..."
+URL="https://www.reddit.com/r/popular.json"
 USER="$(git remote show origin | grep Fetch | grep -o 'https://github.com/[^\/]*')"
 DATE="$(date "+%Y_%m_%d")"
 
