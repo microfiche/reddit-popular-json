@@ -1,0 +1,37 @@
+<!doctype html>
+     <html>
+  <head>
+    <title>Blocked</title>
+    <style>
+      body {
+          font: small verdana, arial, helvetica, sans-serif;
+          width: 600px;
+          margin: 0 auto;
+      }
+
+      h1 {
+          height: 40px;
+          background: transparent url(//www.redditstatic.com/reddit.com.header.png) no-repeat scroll top right;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>whoa there, pardner!</h1>
+
+<p>reddit's awesome and all, but you may have a bit of a
+problem.</p>
+
+<p>Make sure your User-Agent is not empty, is something unique and descriptive and try again. if you're supplying an alternate User-Agent string,
+try changing back to default as that can sometimes result in a block.</p>
+
+<p>If you're attemping to access Reddit via a hosting provider or private VPN, please either login at <a href=https://www.reddit.com/login/>reddit.com/login/</a> or register/sign in with your developer credentials <a href=https://www.reddit.com/wiki/api/>here</a>.</p>
+
+<p>You can read Reddit's Terms of Service <a href=https://www.reddit.com/wiki/api/>here</a>.</p>
+
+<p>if you think that we've incorrectly blocked you or you would like to discuss
+easier ways to get the data you want, please contact us at <a href=mailto:ratelimit@reddit.com?Subject=Blocked%2020.168.23.48 (Request ID: 3255169409-BUR)>this email address</a>.</p>
+
+<p>when contacting us, please include your ip address which is: <strong>20.168.23.48</strong> and reddit account</p>
+  </body>
+</html>
+    
